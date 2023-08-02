@@ -19,7 +19,7 @@ First, navigate to your working directory. As an example, my working directory i
 1. On the homepage of the respository, and select the green "Code" button. Make sure you're on the "Local" tab, then make sure
 that you're on the HTTPS sub-tab. After that, copy the url to your clipboard. The URL should be: https://github.com/sash-wat/BUFN400Fall2023.git
 2. Open the command line (Windows) or terminal (Mac)
-3. I would do ```cd Downloads``` followed by ```cd BUFN400``` to access the directory where I want to clone this repository.
+3. I would do ```cd Downloads``` followed by ```cd BUFN400``` to access the directory where I want to clone this repository. Your inputs will likely be different.
 4. Once in your working directory, run ```git clone [url of the respository]``` and the repository will download to your working directory.
 
 After you download the repository, you'll be able to dynamically pull new content, like homework assignments and notes, as they are posted by the course staff.
